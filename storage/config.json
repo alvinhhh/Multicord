@@ -1,0 +1,47 @@
+{
+    "client": {
+        "token": "",
+        "prefix": "!",
+        "color": "#xxxxxx",
+        "owner": "",
+        "database": ""
+    },
+    "server": {
+        "id": "",
+        "name": "",
+        "ip": "",
+        "store": "",
+        "rules": "",
+        "emote": ""
+    },
+    "channel": {
+        "welcome": "",
+        "changelog": "",
+        "logs": "",
+        "ticketlogs": "",
+        "tickets": "",
+        "bugs": "",
+        "verification": "",
+        "notification": "",
+        "movement": "",
+        "timezone": "",
+        "pending_suggestions": "",
+        "accepted_suggestions": "",
+        "denied_suggestions": ""
+    },
+    "category": {
+        "tickets": ""
+    },
+    "role": {
+        "member": "",
+        "muted": "",
+        "support": "",
+        "notify1": "",
+        "notify2": "",
+        "notify3": "",
+        "notify4": "",
+        "na": "",
+        "eu": "",
+        "au": ""
+    }
+}
